@@ -29,7 +29,7 @@ för en viss mängd t.ex. för ett projekt.
 |                            Länk                            | Beskrivning                                                                          |
 | :--------------------------------------------------------: | :----------------------------------------------------------------------------------- |
 |   [Adobe XD](https://www.adobe.com/fi/products/xd.html)    | En vektor baserad UX design verktyg för applikationer av Adobe                       |
-|     [Figma](https://www.adobe.com/fi/products/xd.html)     | Är en browser baserad UI och UX design applikation                                   |
+|     [Figma](https://www.adobe.com/fi/products/xd.html)     | Är en webbläsare baserad UI och UX design applikation                                |
 | [Mockplus](https://www.mockplus.com/free-wireframing-tool) | Allt i en design plattform för prototyping och skapning av design system             |
 |   [InVision Studio](https://www.invisionapp.com/studio)    | En produkt design platform                                                           |
 |              [Axure](https://www.axure.com/)               | En mjukvara för skapa prototyper och specifikationer för websidor                    |
@@ -46,7 +46,7 @@ Alla fonter här är gratis och det finns flera som man också kan ha för komer
 |                      Länk                      | Beskrivning                                                                                |
 | :--------------------------------------------: | :----------------------------------------------------------------------------------------- |
 | [Font Squirell](https://www.fontsquirrel.com/) | En pålitlig sida, varifrån du kan ladda ner gratis högkvalitets fonter.                    |
-| [Google Fonts](https://www.fontsquirrel.com/)  | innehåller över 800 font familjer av olika typer                                           |
+| [Google Fonts](https://www.fontsquirrel.com/)  | Innehåller över 800 font familjer av olika typer                                           |
 |      [Behance](https://www.behance.net/)       | En sida var människor kan visa sitt kreativa arbete. Här kan man hitta fina gratis fonter. |
 |   [Neogrey](https://www.neogrey.com/fonts/)    | Portfolio av Ivan Filipov. Hans fonter får man ladda ner gratis                            |
 |    [Font Space](https://www.fontspace.com/)    | Innehåller över 32,000 gratis fonter                                                       |
@@ -58,7 +58,8 @@ Alla fonter här är gratis och det finns flera som man också kan ha för komer
 
 ## Bildredigerare
 
-Nedan finns det olika typer av videoredigerare. Vissa av dem används online.
+Nedan finns det olika typer av bildredigerare. Alla av dem är inte endast för bildredigering.
+Inkscape och Krita har också andra funktionaliteter.
 
 <br />
 
@@ -141,7 +142,7 @@ Chrome har flera nyttiga extensions, som kan underlätta och göra din upplevels
 | :------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------- |
 |                     [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)                      | En effektiv reklam blockare                                                                           |
 | [Awesome ScreenShot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) | Med den här extensionen kan du ta skärmdumpar och ta video av din skärm. Det går lätt att mellan dem. |
-|                       [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)                        | Tömmer din cache i din browser med en klick                                                           |
+|                       [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)                        | Tömmer din cache i din webbläsare med en klick                                                        |
 |                                                  [ColorZilla](https://www.colorzilla.com/chrome/)                                                  | Hjälper dig med färg relaterade uppgifter                                                             |
 |                     [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en/)                      | Med CSS viewer kan du kolla på en websidas css                                                        |
 |                          [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)                           | Hjälper dig att identifiera fonter på en webbsida                                                     |
@@ -160,7 +161,7 @@ Extensions i Visual Studio Code är tillägg som låter dig att finjustera och g
 | :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------ |
 |               [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)               | Gör så att koden ser snyggare ut, och att du har det lättare att förstå din kod.                  |
 |         [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)         | Gör det lättare för dig för att emellan dina projekt                                              |
-|              [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)              | Gör en server i bakgrunden för dig, som refreshar browsern varje gång du sparar din fil           |
+|              [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)              | Gör en server i bakgrunden för dig, som refreshar webbläsaren varje gång du sparar din fil        |
 |       [JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)        | Ger åt dig flera nyttiga JavaScript utdrag                                                        |
 | [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | Ger färg åt dina klammrar, vilket gör det lättare för dig att identifiera vilka klammrar hör ihop |
 |              [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)              | Gör det lättare för dig för att komma till den css, som du vill komma till                        |
@@ -191,7 +192,7 @@ sedan söka efter det paketet man vill ha.
 ## Unity assets
 
 Unity asset store har flera nyttiga verktyg, men det finns också utanför den flera verktyg som
-man också kan använda till Unity
+man kan använda till Unity.
 <br />
 
 |                                                           Länk                                                            | Beskrivning                                                                    |
