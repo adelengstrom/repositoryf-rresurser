@@ -21,6 +21,9 @@
 
 ## UI/UX Verktyg
 
+Nedan finns det verktyg för UI/UX. Vissa är helt gratis, andra är gratis för en viss tid eller
+för en viss mängd t.ex. för ett projekt.
+
 <br />
 
 |                            Länk                            | Beskrivning                                                                          |
@@ -38,6 +41,8 @@
 
 ## Fonter
 
+Alla fonter här är gratis och det finns flera som man också kan ha för komersiell användning.
+
 |                      Länk                      | Beskrivning                                                                                |
 | :--------------------------------------------: | :----------------------------------------------------------------------------------------- |
 | [Font Squirell](https://www.fontsquirrel.com/) | En pålitlig sida, varifrån du kan ladda ner gratis högkvalitets fonter.                    |
@@ -52,6 +57,8 @@
 <br />
 
 ## Bildredigerare
+
+Nedan finns det olika typer av videoredigerare. Vissa av dem används online.
 
 <br />
 
@@ -70,6 +77,8 @@
 
 ## Videoredigerare
 
+Här finns det videoredigerare som du kan ha nytta av.
+
 |                                                       Länk                                                       | Beskrivning                                                                   |
 | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------- |
 |                 [Davinci Resolve](https://www.blackmagicdesign.com/uk/products/davinciresolve/)                  | En elegant videoredigerings verktyg med ett modernt gränssnitt                |
@@ -85,6 +94,8 @@
 
 ## Ljud
 
+Här finns det olika slags ljudredigerare som kan vara nyttiga för dig. Alla av det här är gratis.
+
 <br />
 
 |                   Länk                    | Beskrivning                                                                |
@@ -93,13 +104,16 @@
 |  [Ocenaudio](https://www.ocenaudio.com/)  | En audio editor för flera platformer, snabb och lätt att använda           |
 |   [Wavosaur](https://www.wavosaur.com/)   | Gratis ljud editor för windows med VST plugins stöd.                       |
 | [Audio Cutter](https://audiotrimmer.com/) | Ett online verktyg var du kan trimma eller klippa vilken ljudfil som helst |
-| [Traverso-daw](https://traverso-daw.org/) | Gratis ljud editor för windows med VST plugins stöd.                       |
+| [Traverso-daw](https://traverso-daw.org/) | Gratis ljud redigerare för windows med VST plugins stöd.                   |
 |  [Audiotool](https://www.audiotool.com/)  | En gratis online ljud editor var du kan göra dina egna sångar              |
 |    [Audiomass](https://audiomass.co/)     | En komplett webbaserad ljudredigerare                                      |
 
 <br />
 
 ## Färger
+
+Nedan finns det flera olika slags verktyg som är nyttiga för bland annat att hitta de färger man vill
+ha när man till exempel designar något.
 
 <br />
 
@@ -118,6 +132,9 @@
 
 ## Chrome Extensions
 
+Chromes extensions är små program som man kan installera för att ändra på webbläsarens funktionalitet.
+Chrome har flera nyttiga extensions, som kan underlätta och göra din upplevelse behagligare.
+
 <br />
 
 |                                                                        Länk                                                                        | Beskrivning                                                                                           |
@@ -135,6 +152,8 @@
 
 ## Visual Studio Code Extensions
 
+Extensions i Visual Studio Code är tillägg som låter dig att finjustera och göra din upplevelse i VSCode bättre.Du kan installera Visual Studio Codes extensioner inne i Visual Studio Code.
+
 <br />
 
 |                                                        Länk                                                        | Beskrivning                                                                                       |
@@ -150,6 +169,9 @@
 <br />
 
 ## Atom Packages
+
+Ato paket lägger till extra funktioner för huvudprodukten. För att installera paket i atom skall man fara till edit > prefrences > install och
+sedan söka efter det paketet man vill ha.
 
 <br />
 
@@ -168,6 +190,8 @@
 
 ## Unity assets
 
+Unity asset store har flera nyttiga verktyg, men det finns också utanför den flera verktyg som
+man också kan använda till Unity
 <br />
 
 |                                                           Länk                                                            | Beskrivning                                                                    |
