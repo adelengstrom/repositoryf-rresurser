@@ -167,6 +167,7 @@ Extensions i Visual Studio Code är tillägg som låter dig att finjustera och g
 | [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | Ger färg åt dina klammrar, vilket gör det lättare för dig att identifiera vilka klammrar hör ihop |
 |              [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)              | Gör det lättare för dig för att komma till den css, som du vill komma till                        |
 |        [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)        | Ger åt dig flera olika teman, som du kan välja emellan                                            |
+|        [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)        | Lägger till ikoner brevid filerna                                                                 |
 
 <br />
 
