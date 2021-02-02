@@ -99,15 +99,16 @@ Här finns det olika slags ljudredigerare som kan vara nyttiga för dig. Alla av
 
 <br />
 
-|                   Länk                    | Beskrivning                                                                |
-| :---------------------------------------: | :------------------------------------------------------------------------- |
-| [Audacity](https://www.audacityteam.org/) | En lätt användbar open-source flerspårs ljudredigerare                     |
-|  [Ocenaudio](https://www.ocenaudio.com/)  | En audio editor för flera platformer, snabb och lätt att använda           |
-|   [Wavosaur](https://www.wavosaur.com/)   | Gratis ljud editor för windows med VST plugins stöd.                       |
-| [Audio Cutter](https://audiotrimmer.com/) | Ett online verktyg var du kan trimma eller klippa vilken ljudfil som helst |
-| [Traverso-daw](https://traverso-daw.org/) | Gratis ljud redigerare för windows med VST plugins stöd.                   |
-|  [Audiotool](https://www.audiotool.com/)  | En gratis online ljud editor var du kan göra dina egna sångar              |
-|    [Audiomass](https://audiomass.co/)     | En komplett webbaserad ljudredigerare                                      |
+|                        Länk                         | Beskrivning                                                                |
+| :-------------------------------------------------: | :------------------------------------------------------------------------- |
+|      [Audacity](https://www.audacityteam.org/)      | En lätt användbar open-source flerspårs ljudredigerare                     |
+|       [Ocenaudio](https://www.ocenaudio.com/)       | En audio editor för flera platformer, snabb och lätt att använda           |
+|        [Wavosaur](https://www.wavosaur.com/)        | Gratis ljud editor för windows med VST plugins stöd.                       |
+|      [Audio Cutter](https://audiotrimmer.com/)      | Ett online verktyg var du kan trimma eller klippa vilken ljudfil som helst |
+|      [Traverso-daw](https://traverso-daw.org/)      | Gratis ljud redigerare för windows med VST plugins stöd.                   |
+|       [Audiotool](https://www.audiotool.com/)       | En gratis online ljud editor var du kan göra dina egna sångar              |
+|         [Audiomass](https://audiomass.co/)          | En komplett webbaserad ljudredigerare                                      |
+| [Free Audio Editor](https://free-audio-editor.com/) | En profesionell ljudredigerare för alla platformer.                        |
 
 <br />
 
