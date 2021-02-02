@@ -171,7 +171,7 @@ Extensions i Visual Studio Code är tillägg som låter dig att finjustera och g
 
 ## Atom Packages
 
-Ato paket lägger till extra funktioner för huvudprodukten. För att installera paket i atom skall man fara till edit > prefrences > install och sedan söka efter det paketet man vill ha.
+Atom paket lägger till extra funktioner för huvudprodukten. För att installera paket i atom skall man fara till edit > prefrences > install och sedan söka efter det paketet man vill ha.
 
 <br />
 
